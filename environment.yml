@@ -1,0 +1,10 @@
+name: exercises
+
+channels:
+  - defaults
+dependencies:
+  - numpy=1.15.4
+  - matplotlib=3.0.2
+  - pandas=0.25.3
+  - pip:
+    - batman-package
